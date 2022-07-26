@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Tamagoty 🖖🏼👽
 
  <div>
    <a href="https://github.com/Tamagoty">
@@ -19,6 +19,6 @@
 <div> 
   <a href="https://instagram.com/tamagoty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Tamagoty/Tamagoty/blob/output/github-contribution-grid-snake.svg)
 
 </div>
